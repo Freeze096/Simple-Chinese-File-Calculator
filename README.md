@@ -2,4 +2,6 @@
 
 简单的中文计算器！
 
-下载地址：
+下载地址：https://github.com/Freeze096/Simple-Chinese-File-Calculator/archive/refs/heads/main.zip
+
+联系方式：huangyubo096@gmail.com 或 freeze096@126.com
