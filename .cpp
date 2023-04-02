@@ -18,6 +18,6 @@ int main(){
 	cout<<a<<"+"<<b<<"="<<p(a,b)<<endl;
 	cout<<a<<"-"<<b<<"="<<m(a,b)<<endl;
 	cout<<a<<"*"<<b<<"="<<t(a,b)<<endl;
-	cout<<a<<"/"<<b<<"=(或≈)"<<d(a,b)<<endl;
-	MessageBox(0,"提示","程序执行完毕，请到out.lt中查看结果！",MB_OK);
+	cout<<a<<"/"<<b<<"=(鎴栤増)"<<d(a,b)<<endl;
+	MessageBox(0,"绋嬪簭鎵ц瀹屾瘯锛岃鍒皁ut.lt涓煡鐪嬬粨鏋滐紒","鎻愮ず",MB_OK);
 }
