@@ -2,7 +2,7 @@
 
 简单的中文计算器！
 
-运行.exe即可
+运行2.exe即可（不要运行.exe!.exe源文件代码错误）
 
 下载地址：https://github.com/Freeze096/Simple-Chinese-File-Calculator/archive/refs/heads/main.zip
 
